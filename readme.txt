@@ -1,2 +1,2 @@
 jiang yicheng
-learn git
+learn git first time
